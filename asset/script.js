@@ -290,7 +290,7 @@
         <h2>Coded by Alikhazaei<br>
         frontend Developer</h2>`
 
-    } if (x >= 8000) {
+    } if (x >= 8200) {
       fig.style.opacity = '0'
       para.style.opacity = '0'
       li[2].style.backgroundColor = ''
